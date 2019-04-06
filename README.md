@@ -1,1 +1,2 @@
-# 2019-1-Lambda-Ideas
+# Proyecto Lambda-Ideas
+Creación de app web que automatice el uso de rúbricas para evaluaciones en el ambito académico
