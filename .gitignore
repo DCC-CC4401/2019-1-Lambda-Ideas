@@ -99,4 +99,8 @@ fabric.properties
 # Sonarlint plugin
 .idea/sonarlint
 
+#custom changes pablo
+Eval_interface/screenshots
+
 # End of https://www.gitignore.io/api/linux,pycharm
+
